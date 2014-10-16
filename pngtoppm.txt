@@ -1,1 +1,0 @@
-pngtopnm tpilogo80x80.png | ppmquant -fs 223 | pnmtoplainpnm > logo_tpi_clut224.ppm
