@@ -1,5 +1,5 @@
 RPI Fullscreen Kiosk Project
 ----------
 
-Based on the Wired Watershed project
+Based on the Wired Watershed project <br>
 http://blogs.wcode.org/2013/09/howto-boot-your-raspberry-pi-into-a-fullscreen-browser-kiosk/
